@@ -1,4 +1,4 @@
-#spring-boot-practice
+# spring-boot-practice
 For practicing basic web development lifecycle in java environment
 
 ## Dependencies
